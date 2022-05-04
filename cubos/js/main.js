@@ -1,6 +1,4 @@
-
-
-			let camera, scene, renderer;
+let camera, scene, renderer;
 			let mesh;
 			const AMOUNT = 6;
 
